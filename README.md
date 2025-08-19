@@ -27,4 +27,4 @@ To support research and the open-source community, we will release the entire pr
 - [] Release inference code.
 - [] Release training code.
 - [] Release model checkpoints.
-- [] Release DIP dataset (UNO-1M).
+- [] Release DIP dataset.
