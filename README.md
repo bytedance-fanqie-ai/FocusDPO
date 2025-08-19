@@ -9,7 +9,15 @@
 <a href=""><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Model&color=green"></a> -->
 
 
-><p align="center"> <span style="color:#137cf3; font-family: Gill Sans">Qiaoqiao Jin,</span><sup></sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Siming Fu</span><sup></sup>,</a> <span style="color:#137cf3; font-family: Gill Sans">Dong She,</span><sup></sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Weinan Jia,</span><sup></sup> </a>  <span style="color:#137cf3; font-family: Gill Sans">Hualiang Wang,</a> <span style="color:#137cf3; font-family: Gill Sans">Jidong Jiang</span><sup>+</sup></span></a> <br> 
+<p align="center">
+  <span style="color:#137cf3; font-family:Gill Sans">Qiaoqiao Jin<sup>*</sup></span>, 
+  <span style="color:#137cf3; font-family:Gill Sans">Siming Fu<sup>*</sup></span>, 
+  <span style="color:#137cf3; font-family:Gill Sans">Dong She<sup>*</sup></span><br>
+  <span style="color:#137cf3; font-family:Gill Sans">Weinan Jia</span>, 
+  <span style="color:#137cf3; font-family:Gill Sans">Hualiang Wang</span>, 
+  <span style="color:#137cf3; font-family:Gill Sans">Mu Liu</span>, 
+  <span style="color:#137cf3; font-family:Gill Sans">Jidong Jiang<sup>+</sup></span>
+</p>
 ><span style="font-size: 16px">Fanqie AI Team, ByteDance</span></p>
 
 
