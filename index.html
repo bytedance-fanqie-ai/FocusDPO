@@ -35,7 +35,15 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus</h1>
+          <div class="is-flex is-align-items-center is-justify-content-center">
+            <h1 class="title is-1 publication-title">
+              <span class="is-flex is-align-items-center">
+                <img src="static/images/logo.png" alt="Logo" style="height:60px; margin-right:10px;">
+                FocusDPO: Dynamic Preference Opti-
+              </span>
+              <span> mization for Multi-Subject Personalized Image Generation via Adaptive Focus</span>
+            </h1>
+          </div>
           <div class="is-size-5 publication-authors">
             <!-- Authors -->
             <span class="author-block">
@@ -87,7 +95,7 @@
               <!-- Github link -->
               <span class="link-block">
                 <a
-                  href="https://github.com/YOUR REPO HERE"
+                  href="https://github.com/bytedance-fanqie-ai/FocusDPO"
                   target="_blank"
                   class="external-link button is-normal is-rounded is-dark"
                 >
@@ -146,11 +154,11 @@
 .carousel-teaser {
   display: flex;
   width: max-content;
-  animation: scrollLoop 45s linear infinite;
+  animation: scrollLoop 30s linear infinite;
 }
 
 .carousel-teaser img {
-  height: 450px;
+  height: 480px;
   margin-right: 20px;
   border-radius: 8px;
   cursor: pointer; /* 鼠标悬停显示手指 */
@@ -333,6 +341,48 @@ images.forEach(img => {
           <!-- Your image here -->
           <img src="static/images/comp2.png" alt="MY ALT TEXT" />
           <h2 class="subtitle has-text-centered">Qualitative comparison of identity preservation across different optimization methods and PatchDPO (SDXL as backbone).</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+  <style>
+/* 控制 carousel 内所有图片宽度 */
+#results-carousel .item img {
+  width: 80%;        /* 图片占原始容器的 60% */
+  max-width: 800px;  /* 最大宽度限制，可根据需要调整 */
+  height: auto;      /* 保持纵横比 */
+  display: block;    /* 去掉默认行内间距 */
+  margin: 0 auto;    /* 居中显示图片 */
+}
+</style>
+</section>
+<!-- End image carousel -->
+
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3 has-text-centered">
+        Disrupted-Instance Pair Dataset (DIP)
+      </h2>
+      <img class="summary-img" src="static/images/dataset_pipe.png" style="width:80%; max-width:800px; display:block; margin:0 auto;">
+
+      <div class="content has-text-justified" style="max-width:700px; margin:0 auto;">
+        <p>
+          We construct high-quality subject-consistent pairs with controlled subject variation, utilizing a binary prior guidance to identify regions containing subject differences. 
+        </p> 
+      </div>
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item">
+          <!-- Your image here -->
+          <img src="static/images/dataset1.png" alt="MY ALT TEXT" />
+          <h2 class="subtitle has-text-centered">Single-subject examples from the DIP dataset across three content types: object, animal, human.</h2>
+        </div>
+        <div class="item">
+          <!-- Your image here -->
+          <img src="static/images/dataset2.png" alt="MY ALT TEXT" />
+          <h2 class="subtitle has-text-centered">Multi-subject examples from the DIP dataset.</h2>
         </div>
       </div>
     </div>
