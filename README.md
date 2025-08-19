@@ -5,8 +5,8 @@
 
 <p align="center"> 
 <a href="https://bytedance-fanqie-ai.github.io/FocusDPO/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-FocusDPO-blue"></a> 
-<a href=""><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-FocusDPO-b31b1b.svg"></a>
-<a href=""><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Model&color=green"></a>
+<!-- <a href=""><img alt="Build" src="https://img.shields.io/badge/arXiv%20paper-FocusDPO-b31b1b.svg"></a>
+<a href=""><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Model&color=green"></a> -->
 
 
 ><p align="center"> <span style="color:#137cf3; font-family: Gill Sans">Qiaoqiao Jin,</span><sup></sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Siming Fu</span><sup></sup>,</a> <span style="color:#137cf3; font-family: Gill Sans">Dong She,</span><sup></sup></a>  <span style="color:#137cf3; font-family: Gill Sans">Weinan Jia,</span><sup></sup> </a>  <span style="color:#137cf3; font-family: Gill Sans">Hualiang Wang,</a> <span style="color:#137cf3; font-family: Gill Sans">Jidong Jiang</span><sup>+</sup></span></a> <br> 
