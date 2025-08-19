@@ -20,12 +20,12 @@
 
 ## 📖 Introduction
 <p align="center">
-<img src="assets/main_fig.jpg" width=95% height=95% 
+<img src="assets/main_fig.png" width=95% height=95% 
 class="center">
 </p>
 We introduce <b>FocusDPO</b>, a post-training framework that adaptively identifies focus regions based on dynamic semantic correspondence and supervision image complexity. FocusDPO demonstrates capabilities in single-subject and multi-subject driven generation tasks.
 <p align="center">
-<img src="assets/pipeline.jpg" width=95% height=95% 
+<img src="assets/pipeline.png" width=95% height=95% 
 class="center">
 </p>
 FocusDPO introduce <b>spatially-aware optimization framework</b> (left) that adaptively focuses on critical regions through dynamic semantic guidance, leveraging (a) Structure-Preserving Attention Field, which establishes robust correspondence mappings between generated and reference subjects, and (b) Detail-Preserving Complexity Estimator, which provides the semantic complexity of images.
