@@ -14,7 +14,7 @@
 
 
 ## 🔥 News
-- [11/10/2025] 🔥 The arXiv [paper](https://arxiv.org/abs/2509.01181) of FocusDPO is released.
+- [11/10/2025] 🎉 Congratulations! FocusDPO has been accepted by AAAI 2026!
 - [09/01/2025] 🔥 The arXiv [paper](https://arxiv.org/abs/2509.01181) of FocusDPO is released.
 - [08/20/2025] 🔥 The [project page](https://bytedance-fanqie-ai.github.io/FocusDPO/) of FocusDPO is created.
 
