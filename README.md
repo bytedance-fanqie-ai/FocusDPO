@@ -1,9 +1,9 @@
 <h3 align="center">
     <img src="assets/logo.png" alt="Logo" style="vertical-align: middle; width: 40px; height: 40px;">
-    FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus
+    [🔥AAAI 2026🔥]FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus
 </h3>
 
-<p align="center"> 
+<p align="center">
 <a href="https://bytedance-fanqie-ai.github.io/FocusDPO/"><img alt="Build" src="https://img.shields.io/badge/Project%20Page-FocusDPO-blue"></a>
 <a href="https://arxiv.org/pdf/2509.01181"><img alt="Build" src="https://img.shields.io/badge/Paper-FocusDPO-b31b1b.svg"></a>
 
